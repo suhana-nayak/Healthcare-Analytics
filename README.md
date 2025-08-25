@@ -63,4 +63,4 @@ To provide a single platform for:
 Add images of your dashboard here:  
 
 Example:  
-![Dashboard Preview](Snapshot of Dashboard.png)
+![Dashboard Preview](./Snapshot%20of%20Dashboard.png)
