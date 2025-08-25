@@ -64,3 +64,5 @@ Add images of your dashboard here:
 
 Example:  
 ![Dashboard Preview](./Snapshot%20of%20Dashboard.png)
+![Dashboard Preview](./Snapshot%20of%20Dashboard2.png)
+
